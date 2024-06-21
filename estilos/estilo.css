@@ -25,7 +25,7 @@ body{
 /* Área de Cabecera */   
 header{
     grid-area:header;
-    border: 2px solid red;
+    border: 2px solid black;
     display: flex;
     flex-direction: row;
     flex-wrap:nowrap;
